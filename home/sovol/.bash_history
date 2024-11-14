@@ -337,3 +337,131 @@ cd usbmount/
 sudo make install
 ls
 vi makerbase-automount
+ls
+sudo apt-get install janus
+ls
+cd kiauh
+./kiauh.sh 
+ls
+cd patch/
+ls
+cp -p ../klipper/klippy/extras/display/display.cfg ./
+cp -p ../klipper/klippy/extras/display/menu.cfg ./
+cp -p ../klipper/klippy/extras/display/menu.py ./
+cd config/
+ls
+cp -p ../../printer_data/config/get_ip.cfg ./
+cp -p ../../printer_data/config/Macro.cfg ./
+cp -p ../../printer_data/config/plr.cfg ./
+cp -p ../../printer_data/config/printer.cfg ./
+cp -p ../../printer_data/config/saved_variables.cfg ./
+ls
+cd ..
+ls
+./patch.sh 
+vi /bin/makerbase-automount 
+ls
+cd kiauh
+./kiauh.sh 
+ls
+cd kiauh
+./kiauh.sh 
+cd ..
+ls
+cd moonraker-obico
+./install.sh 
+ls
+cd kiauh
+ls
+cd ..
+ls
+cd moonraker-obico
+git pull
+ls
+cd moonraker-obico
+ls
+git pull
+ls
+cd moonraker-obico
+ls
+git pull
+cd printer_data/
+cd config/
+cat printer.cfg 
+ls
+cd printer_data/
+ls
+cd gcodes/
+ls
+cd ..
+ls
+cd co
+cd config/
+ls
+cd..
+cd ..
+ls
+cd ..
+ls
+cd klipper/
+ls
+cd ..
+ls
+cd printer_data/
+ls
+cd config
+ls
+cat Macro.cfg 
+ls
+cat Macro.cfg 
+ls
+cd ..
+ls
+cd ..
+ls
+cd klipper
+ls
+cd config
+ls
+cd ..
+ls
+cd src
+ls
+cd ..
+ls
+cd klippy/
+ls
+cd ..
+ls
+cd ..
+ls
+cd klippy-env
+ls
+cd ..
+cd klipperscreen
+cd KlipperScreen/
+ls
+cd ..
+ls
+cd printer_data
+ls
+cd comms
+ls
+cd ..
+ls
+cd config/
+ls
+cd printer_data/
+ls
+cd config/
+ls
+vi printer.cfg
+cat GP3D_Macro.cfg 
+ls
+cat mainsail.cfg 
+cat Macro.cfg 
+cd printer_data/
+ls
+cd config/
+ls
+vi printer.cfg

@@ -1,1 +1,1 @@
-{"commandline": "G0 F3000 X159.434 Y164.088 Z19.8", "Z": "19.8"}
+{"commandline": "G1 X173.206 Y173.994 Z48 F42000", "Z": "48", "extrude_type": "M83", "e_extrude_abs": 0}
